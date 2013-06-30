@@ -1,5 +1,5 @@
-How to keep image transparency with z depth
-===========================================
+Keep image transparency with z depth
+====================================
 
 In order to display an image in [Processing](http://processing.org/), you need to create a [`PImage`](http://processing.org/reference/PImage.html) instance. Draw the image in the [`draw`](http://processing.org/reference/draw_.html) loop. Don't forget to also draw a [`background`](http://processing.org/reference/background_.html) so the image is not just drawn on top of itself infinitely.
 
