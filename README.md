@@ -20,3 +20,6 @@ See the results below.
 ![image](https://raw.github.com/jansensan/tutorial-processing-keep-image-transparency-with-z-depth/master/assets/sorted.jpg)
 
 Don't hesitate to look at the [code](https://github.com/jansensan/tutorial-processing-keep-image-transparency-with-z-depth/tree/master/sources/keep_image_transparency_with_z_depth) and use it if you need anything like that.
+
+**Credits**:<br>
+Pirate illustration by [Amanda Lobb](http://amandalobb.com/)
